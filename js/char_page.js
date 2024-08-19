@@ -1,3 +1,4 @@
+
 var current_chara= fav_char_id
 var current_chara_rank= fav_char_rank
 function char_page(){
@@ -33,6 +34,7 @@ function char_page(){
 				], function () {
                     cc.director.runScene(new charaScene());
                 }, this);
+
 }
 
 function gen_chara(i,attr,rank){
@@ -47,6 +49,7 @@ function gen_chara(i,attr,rank){
 }
 
 function add_chara_list(par=null){
+	
 	$("#chara_head_list").empty();
 	current_chara= fav_char_id
 	current_chara_rank= fav_char_rank
@@ -58,7 +61,7 @@ function add_chara_list(par=null){
             if(par["attr"].length>0&& !par["attr"].includes(chara_data[i]["attr"].toLowerCase())) {
                 continue
             }
-            if(par["name"].length>0&&!chara_data[i]["cn"].includes(par["name"])){
+            if(par["name"].length>0&&!chara_data[i][currentLanguage].toLowerCase().includes(par["name"].toLowerCase())){
                 continue
             }
 	    }
@@ -100,7 +103,7 @@ function add_chara_list(par=null){
 	$(".chara_head").height(document.documentElement.clientHeight*0.2*0.75)
 }
 function char_left_load(){
-	$("#chara_name").text(chara_data[current_chara]["cn"])
+	$("#chara_name").text(chara_data[current_chara][currentLanguage])
 	$("#chara_attr").attr("src","./image/image_web/common/chara/att_"+chara_data[current_chara]["attr"].toLowerCase()+"_f.png")
 	let d_rank=chara_data[current_chara]["defaultRank"]
 	let m_rank=chara_data[current_chara]["maxRank"]

@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'magien';
+    src: url('./Koruri-Semibold.ttf') format('truetype');
+}
+
 @font-face{
     font-family: magi;
     src: url("./MTF4a5kp.ttf");

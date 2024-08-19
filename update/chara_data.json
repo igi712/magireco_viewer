@@ -68,7 +68,9 @@
                 "name": "PAPA_いろは02"
             }
         },
-        "cn": "环伊吕波"
+        "cn": "环伊吕波",
+        "jp": "環いろは",
+        "en": "Iroha Tamaki"
     },
     "1002": {
         "attr": "WATER",
@@ -120,7 +122,9 @@
                 "name": "PAPA_やちよ19"
             }
         },
-        "cn": "七海八千代"
+        "cn": "七海八千代",
+        "jp": "七海やちよ",
+        "en": "Yachiyo Nanami"
     },
     "1003": {
         "attr": "FIRE",
@@ -171,7 +175,9 @@
                 "name": "PAPA_鶴乃02"
             }
         },
-        "cn": "由比鹤乃"
+        "cn": "由比鹤乃",
+        "jp": "由比鶴乃",
+        "en": "Tsuruno Yui"
     },
     "1004": {
         "attr": "TIMBER",
@@ -217,7 +223,9 @@
                 "name": "PAPA_さな02"
             }
         },
-        "cn": "二叶莎奈"
+        "cn": "二叶莎奈",
+        "jp": "二葉さな",
+        "en": "Sana Futaba"
     },
     "1005": {
         "attr": "DARK",
@@ -270,7 +278,9 @@
                 "name": "PAPA_つくね03"
             }
         },
-        "cn": "深月菲莉希亚"
+        "cn": "深月菲莉希亚",
+        "jp": "深月フェリシア",
+        "en": "Felicia Mitsuki"
     },
     "1006": {
         "attr": "DARK",
@@ -300,7 +310,9 @@
                 "name": "PAPA_みふゆ01"
             }
         },
-        "cn": "梓美冬"
+        "cn": "梓美冬",
+        "jp": "梓みふゆ",
+        "en": "Mifuyu Azusa"
     },
     "1007": {
         "attr": "FIRE",
@@ -335,7 +347,9 @@
                 "name": "PAPA_灯花01"
             }
         },
-        "cn": "里见灯花"
+        "cn": "里见灯花",
+        "jp": "里見灯花",
+        "en": "Touka Satomi"
     },
     "1008": {
         "attr": "TIMBER",
@@ -368,7 +382,9 @@
                 "name": "PAPA_アリナ02"
             }
         },
-        "cn": "阿莉娜·格雷"
+        "cn": "阿莉娜·格雷",
+        "jp": "アリナ・グレイ",
+        "en": "Alina Gray"
     },
     "1009": {
         "attr": "WATER",
@@ -398,7 +414,9 @@
                 "name": "PAPA_レナ01"
             }
         },
-        "cn": "水波玲奈"
+        "cn": "水波玲奈",
+        "jp": "水波レナ",
+        "en": "Rena Minami"
     },
     "1010": {
         "attr": "FIRE",
@@ -427,7 +445,9 @@
                 "name": "PAPA_ももこ01"
             }
         },
-        "cn": "十咎桃子"
+        "cn": "十咎桃子",
+        "jp": "十咎ももこ",
+        "en": "Momoko Togame"
     },
     "1011": {
         "attr": "TIMBER",
@@ -460,7 +480,9 @@
                 "name": "PAPA_かえで01"
             }
         },
-        "cn": "秋野枫"
+        "cn": "秋野枫",
+        "jp": "秋野かえで",
+        "en": "Kaede Akino"
     },
     "1012": {
         "attr": "FIRE",
@@ -486,7 +508,9 @@
                 "name": "PAPA_かりん01"
             }
         },
-        "cn": "御园花凛"
+        "cn": "御园花凛",
+        "jp": "御園かりん",
+        "en": "Karin Misono"
     },
     "1013": {
         "attr": "WATER",
@@ -511,7 +535,9 @@
                 "name": "PAPA_明日香01"
             }
         },
-        "cn": "龙城明日香"
+        "cn": "龙城明日香",
+        "jp": "竜城明日香",
+        "en": "Asuka Tatsuki"
     },
     "1014": {
         "attr": "TIMBER",
@@ -555,7 +581,9 @@
                 "name": "PAPA_ねむ01"
             }
         },
-        "cn": "柊音梦"
+        "cn": "柊音梦",
+        "jp": "柊ねむ",
+        "en": "Nemu Hiiragi"
     },
     "1015": {
         "attr": "DARK",
@@ -597,7 +625,9 @@
                 "name": "PAPA_うい01"
             }
         },
-        "cn": "环忧"
+        "cn": "环忧",
+        "jp": "環うい",
+        "en": "Ui Tamaki"
     },
     "1016": {
         "attr": "LIGHT",
@@ -632,7 +662,9 @@
                 "name": "PAPA_十七夜01"
             }
         },
-        "cn": "和泉十七夜"
+        "cn": "和泉十七夜",
+        "jp": "和泉十七夜",
+        "en": "Kanagi Izumi"
     },
     "1017": {
         "attr": "VOID",
@@ -666,7 +698,9 @@
                 "name": "八雲みたま"
             }
         },
-        "cn": "八云御魂"
+        "cn": "八云御魂",
+        "jp": "八雲みたま",
+        "en": "Mitama Yakumo"
     },
     "1018": {
         "attr": "DARK",
@@ -692,7 +726,9 @@
                 "name": "PAPA_月夜01"
             }
         },
-        "cn": "天音月夜"
+        "cn": "天音月夜",
+        "jp": "天音月夜",
+        "en": "Tsukuyo Amane"
     },
     "1019": {
         "attr": "LIGHT",
@@ -718,7 +754,9 @@
                 "name": "PAPA_月咲01"
             }
         },
-        "cn": "天音月咲"
+        "cn": "天音月咲",
+        "jp": "天音月咲",
+        "en": "Tsukasa Amane"
     },
     "1020": {
         "attr": "TIMBER",
@@ -740,7 +778,9 @@
                 "name": "PAPA_かごめ01"
             }
         },
-        "cn": "佐鸟笼目"
+        "cn": "佐鸟笼目",
+        "jp": "佐鳥かごめ",
+        "en": "Kagome Satori"
     },
     "1021": {
         "attr": "LIGHT",
@@ -779,7 +819,9 @@
                 "name": "PAPA_結菜01"
             }
         },
-        "cn": "红晴结菜"
+        "cn": "红晴结菜",
+        "jp": "紅晴結菜",
+        "en": "Yuna Kureha"
     },
     "1022": {
         "attr": "LIGHT",
@@ -810,7 +852,9 @@
                 "name": "PAPA_ひかる01"
             }
         },
-        "cn": "煌里光"
+        "cn": "煌里光",
+        "jp": "煌里ひかる",
+        "en": "Hikaru Kirari"
     },
     "1023": {
         "attr": "WATER",
@@ -837,7 +881,9 @@
                 "name": "PAPA_アオ01"
             }
         },
-        "cn": "笠音青"
+        "cn": "笠音青",
+        "jp": "笠音アオ",
+        "en": "Ao Kasane"
     },
     "1024": {
         "attr": "FIRE",
@@ -867,7 +913,9 @@
                 "name": "PAPA_樹里01"
             }
         },
-        "cn": "大庭树里"
+        "cn": "大庭树里",
+        "jp": "大庭樹里",
+        "en": "Juri Ooba"
     },
     "1025": {
         "attr": "FIRE",
@@ -900,7 +948,9 @@
                 "name": "PAPA_静香01"
             }
         },
-        "cn": "时女静香"
+        "cn": "时女静香",
+        "jp": "時女静香",
+        "en": "Shizuka Tokime"
     },
     "1026": {
         "attr": "TIMBER",
@@ -931,7 +981,9 @@
                 "name": "PAPA_ちはる01"
             }
         },
-        "cn": "广江千春"
+        "cn": "广江千春",
+        "jp": "広江ちはる",
+        "en": "Chiharu Hiroe"
     },
     "1027": {
         "attr": "WATER",
@@ -962,7 +1014,9 @@
                 "name": "PAPA_すなお01"
             }
         },
-        "cn": "土岐沙绪"
+        "cn": "土岐沙绪",
+        "jp": "土岐すなお",
+        "en": "Sunao Toki"
     },
     "1028": {
         "attr": "WATER",
@@ -985,7 +1039,9 @@
                 "name": "PAPA_ひめな01"
             }
         },
-        "cn": "蓝家姬奈"
+        "cn": "蓝家姬奈",
+        "jp": "藍家ひめな",
+        "en": "Himena Aika"
     },
     "1029": {
         "attr": "TIMBER",
@@ -1011,7 +1067,9 @@
                 "name": "PAPA_時雨01"
             }
         },
-        "cn": "宫尾时雨"
+        "cn": "宫尾时雨",
+        "jp": "宮尾時雨",
+        "en": "Shigure Miyabi"
     },
     "1030": {
         "attr": "FIRE",
@@ -1037,7 +1095,9 @@
                 "name": "PAPA_はぐむ01"
             }
         },
-        "cn": "安积育梦"
+        "cn": "安积育梦",
+        "jp": "安積はぐむ",
+        "en": "Hagumu Azumi"
     },
     "1031": {
         "attr": "TIMBER",
@@ -1066,7 +1126,9 @@
                 "name": "PAPA_燦"
             }
         },
-        "cn": "神乐灿"
+        "cn": "神乐灿",
+        "jp": "神楽燦",
+        "en": "San Kagura"
     },
     "1032": {
         "attr": "WATER",
@@ -1095,7 +1157,9 @@
                 "name": "PAPA_ミユリ"
             }
         },
-        "cn": "游狩美由利"
+        "cn": "游狩美由利",
+        "jp": "遊狩ミユリ",
+        "en": "Miyuri Yukari"
     },
     "1033": {
         "attr": "TIMBER",
@@ -1121,7 +1185,9 @@
                 "name": "PAPA_ラビ01"
             }
         },
-        "cn": "冰室拉比"
+        "cn": "冰室拉比",
+        "jp": "氷室ラビ",
+        "en": "Rabi Himuro"
     },
     "1034": {
         "attr": "DARK",
@@ -1144,7 +1210,9 @@
                 "name": "PAPA_旭"
             }
         },
-        "cn": "三浦旭"
+        "cn": "三浦旭",
+        "jp": "三浦旭",
+        "en": "Asahi Miura"
     },
     "1035": {
         "attr": "TIMBER",
@@ -1167,7 +1235,9 @@
                 "name": "PAPA_アレクサンドラ"
             }
         },
-        "cn": "栗栖亚历山德拉"
+        "cn": "栗栖亚历山德拉",
+        "jp": "栗栖アレクサンドラ",
+        "en": "Alexandra Kurusu"
     },
     "1036": {
         "attr": "WATER",
@@ -1190,7 +1260,9 @@
                 "name": "PAPA_うらら"
             }
         },
-        "cn": "有爱丽"
+        "cn": "有爱丽",
+        "jp": "有愛うらら",
+        "en": "Urara Yume"
     },
     "1037": {
         "attr": "DARK",
@@ -1209,7 +1281,9 @@
                 "name": "PAPA_那由他"
             }
         },
-        "cn": "里见那由他"
+        "cn": "里见那由他",
+        "jp": "里見那由他",
+        "en": "Nayuta Satomi"
     },
     "1038": {
         "attr": "DARK",
@@ -1231,7 +1305,9 @@
                 "name": "PAPA_みかげ01"
             }
         },
-        "cn": "八云御影"
+        "cn": "八云御影",
+        "jp": "八雲みかげ",
+        "en": "Mikage Yakumo"
     },
     "1039": {
         "attr": "VOID",
@@ -1266,7 +1342,9 @@
                 "name": "PAPA_月出里01"
             }
         },
-        "cn": "佐和月出里"
+        "cn": "佐和月出里",
+        "jp": "佐和月出里",
+        "en": "Sudachi Sawa"
     },
     "1040": {
         "attr": "VOID",
@@ -1293,7 +1371,9 @@
                 "name": "PAPA_ヨヅル01"
             }
         },
-        "cn": "篠目夜鹤"
+        "cn": "篠目夜鹤",
+        "jp": "篠目ヨヅル",
+        "en": "Yozuru Sasame"
     },
     "1041": {
         "attr": "VOID",
@@ -1315,7 +1395,9 @@
                 "name": "PAPA_リヴィア01"
             }
         },
-        "cn": "莉薇娅·梅黛洛斯"
+        "cn": "莉薇娅·梅黛洛斯",
+        "jp": "リヴィア・メディロス",
+        "en": "Livia Medeiros"
     },
     "1042": {
         "attr": "DARK",
@@ -1347,7 +1429,9 @@
                 "name": "PAPA_小さなキュゥべえ01"
             }
         },
-        "cn": "小丘比"
+        "cn": "小丘比",
+        "jp": "小さなキュゥべえ",
+        "en": "Little Kyubey"
     },
     "1043": {
         "attr": "DARK",
@@ -1375,7 +1459,9 @@
                 "name": "PAPA_黒江"
             }
         },
-        "cn": "黑江"
+        "cn": "黑江",
+        "jp": "黒江",
+        "en": "Kuroe"
     },
     "1044": {
         "attr": "VOID",
@@ -1394,7 +1480,9 @@
                 "name": "PAPA_みこと01"
             }
         },
-        "cn": "濑奈命"
+        "cn": "濑奈命",
+        "jp": "瀬奈みこと",
+        "en": "Mikoto Sena"
     },
     "1045": {
         "attr": "WATER",
@@ -1413,7 +1501,9 @@
                 "name": "PAPA_露01"
             }
         },
-        "cn": "水名露"
+        "cn": "水名露",
+        "jp": "水名露",
+        "en": "Tsuyu Mizuna"
     },
     "1046": {
         "attr": "FIRE",
@@ -1432,7 +1522,9 @@
                 "name": "PAPA_千鶴01"
             }
         },
-        "cn": "千鹤"
+        "cn": "千鹤",
+        "jp": "千鶴",
+        "en": "Chizuru"
     },
     "1047": {
         "attr": "LIGHT",
@@ -1451,7 +1543,9 @@
                 "name": "PAPA_くろ01"
             }
         },
-        "cn": "小黑"
+        "cn": "小黑",
+        "jp": "くろ",
+        "en": "Kuro"
     },
     "1048": {
         "attr": "DARK",
@@ -1470,7 +1564,9 @@
                 "name": "PAPA_エボニー01"
             }
         },
-        "cn": "埃博妮"
+        "cn": "埃博妮",
+        "jp": "エボニー",
+        "en": "Ebony"
     },
     "1049": {
         "attr": "WATER",
@@ -1492,7 +1588,9 @@
                 "name": "PAPA_オルガ"
             }
         },
-        "cn": "奥尔加"
+        "cn": "奥尔加",
+        "jp": "オルガ",
+        "en": "Olga"
     },
     "1050": {
         "attr": "FIRE",
@@ -1514,7 +1612,9 @@
                 "name": "PAPA_ガンヒルト"
             }
         },
-        "cn": "冈希尔德"
+        "cn": "冈希尔德",
+        "jp": "ガンヒルト",
+        "en": "Gunhild"
     },
     "1051": {
         "attr": "TIMBER",
@@ -1533,7 +1633,9 @@
                 "name": "PAPA_ヘルカ"
             }
         },
-        "cn": "赫露迦"
+        "cn": "赫露迦",
+        "jp": "ヘルカ",
+        "en": "Heruka"
     },
     "1052": {
         "attr": "LIGHT",
@@ -1552,7 +1654,9 @@
                 "name": "PAPA_トヨ"
             }
         },
-        "cn": "台与"
+        "cn": "台与",
+        "jp": "トヨ",
+        "en": "Toyo"
     },
     "1053": {
         "attr": "VOID",
@@ -1575,7 +1679,9 @@
                 "name": "PAPA_アマリュリス"
             }
         },
-        "cn": "阿玛琉莉丝"
+        "cn": "阿玛琉莉丝",
+        "jp": "アマリュリス",
+        "en": "Amaryllis"
     },
     "1101": {
         "attr": "WATER",
@@ -1591,7 +1697,9 @@
                 "name": "PAPA_いろは01"
             }
         },
-        "cn": "环伊吕波（泳装ver.）"
+        "cn": "环伊吕波（泳装ver.）",
+        "jp": "環いろは (水着 ver.)",
+        "en": "Iroha Tamaki (Swimsuit ver.)"
     },
     "1102": {
         "attr": "WATER",
@@ -1621,7 +1729,9 @@
                 "name": "PAPA_やちよ・みふゆ始まりver01"
             }
         },
-        "cn": "八千代·美冬（起始ver.）"
+        "cn": "八千代·美冬（起始ver.）",
+        "jp": "やちよ・みふゆ (始まり ver.)",
+        "en": "Yachiyo & Mifuyu (Origins ver.)"
     },
     "1103": {
         "attr": "FIRE",
@@ -1637,7 +1747,9 @@
                 "name": "PAPA_鶴乃01"
             }
         },
-        "cn": "谣鹤乃"
+        "cn": "谣鹤乃",
+        "jp": "ウワサの鶴乃",
+        "en": "Uwasa Tsuruno"
     },
     "1104": {
         "attr": "WATER",
@@ -1657,7 +1769,9 @@
                 "name": "PAPA_うわさのさな"
             }
         },
-        "cn": "谣莎奈"
+        "cn": "谣莎奈",
+        "jp": "ウワサのさな",
+        "en": "Uwasa Sana"
     },
     "1105": {
         "attr": "DARK",
@@ -1670,7 +1784,9 @@
                 "motion": "17"
             }
         },
-        "cn": "小菲莉希亚"
+        "cn": "小菲莉希亚",
+        "jp": "フェリシアちゃん",
+        "en": "Felicia-chan"
     },
     "1106": {
         "attr": "FIRE",
@@ -1686,7 +1802,9 @@
                 "name": "PAPA_みふゆ（おとぎ話ver）01"
             }
         },
-        "cn": "梓美冬（童话ver.）"
+        "cn": "梓美冬（童话ver.）",
+        "jp": "梓みふゆ (おとぎ話 ver.)",
+        "en": "Mifuyu Azusa (Fairy Tale ver.)"
     },
     "1107": {
         "attr": "DARK",
@@ -1710,7 +1828,9 @@
                 "name": "PAPA_灯花・ねむ聖夜ver01"
             }
         },
-        "cn": "灯花·音梦（圣夜ver.）"
+        "cn": "灯花·音梦（圣夜ver.）",
+        "jp": "灯花・ねむ (聖夜 ver.)",
+        "en": "Touka & Nemu (Holy Night ver.)"
     },
     "1108": {
         "attr": "TIMBER",
@@ -1726,7 +1846,9 @@
                 "name": "PAPA_クリスマスアリナ"
             }
         },
-        "cn": "圣阿莉娜"
+        "cn": "圣阿莉娜",
+        "jp": "ホーリーアリナ",
+        "en": "Holy Alina"
     },
     "1109": {
         "attr": "WATER",
@@ -1742,7 +1864,9 @@
                 "name": "PAPA_レナちゃんアイドルver01"
             }
         },
-        "cn": "小玲奈（偶像ver.）"
+        "cn": "小玲奈（偶像ver.）",
+        "jp": "レナちゃん (アイドル ver.)",
+        "en": "Rena-chan (Idol ver.)"
     },
     "1110": {
         "attr": "LIGHT",
@@ -1758,7 +1882,9 @@
                 "name": "PAPA_ももこシスターver01"
             }
         },
-        "cn": "十咎桃子（修女ver.）"
+        "cn": "十咎桃子（修女ver.）",
+        "jp": "十咎ももこ (シスター ver.)",
+        "en": "Momoko Togame (Sister ver.)"
     },
     "1112": {
         "attr": "FIRE",
@@ -1782,7 +1908,9 @@
                 "name": "PAPA_かりんアリナハロウィン"
             }
         },
-        "cn": "花凛·阿莉娜（万圣ver.）"
+        "cn": "花凛·阿莉娜（万圣ver.）",
+        "jp": "かりん・アリナ (ハロウィン ver.)",
+        "en": "Karin & Alina (Halloween ver.)"
     },
     "1113": {
         "attr": "WATER",
@@ -1798,7 +1926,9 @@
                 "name": "PAPA_明日香（新春龍神）"
             }
         },
-        "cn": "龙城明日香（新春龙神ver.）"
+        "cn": "龙城明日香（新春龙神ver.）",
+        "jp": "竜城明日香 (新春龍神 ver.)",
+        "en": "Asuka Tatsuki (New Year's Dragon God ver.)"
     },
     "1116": {
         "attr": "DARK",
@@ -1814,7 +1944,9 @@
                 "name": "PAPA_十七夜ヴァンパイアver01"
             }
         },
-        "cn": "和泉十七夜（吸血鬼ver.）"
+        "cn": "和泉十七夜（吸血鬼ver.）",
+        "jp": "和泉十七夜 (ヴァンパイア ver.)",
+        "en": "Kanagi Izumi (Vampire ver.)"
     },
     "1117": {
         "attr": "VOID",
@@ -1830,7 +1962,9 @@
                 "name": "PAPA_みたま01"
             }
         },
-        "cn": "八云御魂（晴着ver.）"
+        "cn": "八云御魂（晴着ver.）",
+        "jp": "八雲みたま (晴着 ver.)",
+        "en": "Mitama Yakumo (Haregi ver.)"
     },
     "1118": {
         "attr": "WATER",
@@ -1854,7 +1988,9 @@
                 "name": "PAPA_月夜・月咲水着ver01"
             }
         },
-        "cn": "天音姐妹（泳装ver.）"
+        "cn": "天音姐妹（泳装ver.）",
+        "jp": "天音姉妹 (水着 ver.)",
+        "en": "Amane Sisters (Swimsuit ver.)"
     },
     "1120": {
         "attr": "TIMBER",
@@ -1870,7 +2006,9 @@
                 "name": "PAPA_かごめ（百鬼夜行）"
             }
         },
-        "cn": "佐鸟笼目（百鬼夜行ver.）"
+        "cn": "佐鸟笼目（百鬼夜行ver.）",
+        "jp": "佐鳥かごめ (百鬼夜行 ver.)",
+        "en": "Kagome Satori (Hyakki Yagyou ver.)"
     },
     "1121": {
         "attr": "FIRE",
@@ -1894,7 +2032,9 @@
                 "name": "PAPA_結菜樹里ヴァンパイア"
             }
         },
-        "cn": "结菜·树里（吸血鬼ver.）"
+        "cn": "结菜·树里（吸血鬼ver.）",
+        "jp": "結菜・樹里 (ヴァンパイア ver.)",
+        "en": "Yuna & Juri (Vampire ver.)"
     },
     "1125": {
         "attr": "FIRE",
@@ -1910,7 +2050,9 @@
                 "name": "PAPA_時女静香お正月"
             }
         },
-        "cn": "时女静香（元旦日出ver.）"
+        "cn": "时女静香（元旦日出ver.）",
+        "jp": "時女静香 (初日の出 ver.)",
+        "en": "Shizuka Tokime (First Sunrise of the Year ver.)"
     },
     "1133": {
         "attr": "VOID",
@@ -1926,7 +2068,9 @@
                 "name": "PAPA_ラビ（キモチver）01"
             }
         },
-        "cn": "冰室拉比（心魔ver.）"
+        "cn": "冰室拉比（心魔ver.）",
+        "jp": "氷室ラビ (キモチ ver.)",
+        "en": "Rabi Himuro (Kimochi ver.)"
     },
     "1137": {
         "attr": "TIMBER",
@@ -1950,7 +2094,9 @@
                 "name": "PAPA_那由他みかげクリスマス"
             }
         },
-        "cn": "那由他·御影（圣诞ver.）"
+        "cn": "那由他·御影（圣诞ver.）",
+        "jp": "那由他・みかげ (クリスマス ver.)",
+        "en": "Nayuta & Mikage (Christmas ver.)"
     },
     "1139": {
         "attr": "VOID",
@@ -1970,7 +2116,9 @@
                 "name": "PAPA_月出里（バレンタインver）01"
             }
         },
-        "cn": "佐和月出里（情人节ver.）"
+        "cn": "佐和月出里（情人节ver.）",
+        "jp": "佐和月出里 (バレンタイン ver.)",
+        "en": "Sudachi Sawa (Valentine's ver.)"
     },
     "1143": {
         "attr": "DARK",
@@ -1986,7 +2134,9 @@
                 "name": "PAPA_黒江（水着ver）01"
             }
         },
-        "cn": "黑江（泳装ver.）"
+        "cn": "黑江（泳装ver.）",
+        "jp": "黒江 (水着 ver.)",
+        "en": "Kuroe (Swimsuit ver.)"
     },
     "1144": {
         "attr": "VOID",
@@ -2011,7 +2161,9 @@
                 "name": "PAPA_ウワサのみこと"
             }
         },
-        "cn": "谣命"
+        "cn": "谣命",
+        "jp": "ウワサのみこと",
+        "en": "Uwasa Mikoto"
     },
     "1201": {
         "attr": "LIGHT",
@@ -2039,7 +2191,9 @@
                 "name": "PAPA_出涸嵐マナ"
             }
         },
-        "cn": "小伊吕波"
+        "cn": "小伊吕波",
+        "jp": "いろはちゃん",
+        "en": "Iroha-chan"
     },
     "1202": {
         "attr": "WATER",
@@ -2058,7 +2212,9 @@
                 "name": "PAPA_七夕やちよ"
             }
         },
-        "cn": "七海八千代（七夕ver.）"
+        "cn": "七海八千代（七夕ver.）",
+        "jp": "七海やちよ (七夕 ver.)",
+        "en": "Yachiyo Nanami (Tanabata ver.)"
     },
     "1203": {
         "attr": "FIRE",
@@ -2082,7 +2238,9 @@
                 "name": "PAPA_鶴乃・フェリシア宅配ver01"
             }
         },
-        "cn": "鹤乃·菲莉希亚（快递ver.）"
+        "cn": "鹤乃·菲莉希亚（快递ver.）",
+        "jp": "鶴乃・フェリシア (宅配 ver.)",
+        "en": "Tsuruno & Felicia (Delivery ver.)"
     },
     "1209": {
         "attr": "WATER",
@@ -2106,7 +2264,9 @@
                 "name": "PAPA_レナ・かえで水着ver01"
             }
         },
-        "cn": "玲奈·枫（泳装ver.）"
+        "cn": "玲奈·枫（泳装ver.）",
+        "jp": "レナ・かえで (水着 ver.)",
+        "en": "Rena & Kaede (Swimsuit ver.)"
     },
     "1210": {
         "attr": "VOID",
@@ -2136,7 +2296,9 @@
                 "name": "PAPA_ももこ・みたま人魚"
             }
         },
-        "cn": "桃子·御魂（人鱼ver.）"
+        "cn": "桃子·御魂（人鱼ver.）",
+        "jp": "ももこ・みたま (人魚 ver.)",
+        "en": "Momoko & Mitama (Mermaid ver.)"
     },
     "1216": {
         "attr": "DARK",
@@ -2152,7 +2314,9 @@
                 "name": "PAPA_十七夜（常闇ver）01"
             }
         },
-        "cn": "和泉十七夜（常暗ver.）"
+        "cn": "和泉十七夜（常暗ver.）",
+        "jp": "和泉十七夜 (常闇 ver.)",
+        "en": "Kanagi Izumi (Eternal Darkness ver.)"
     },
     "1217": {
         "attr": "VOID",
@@ -2168,7 +2332,9 @@
                 "name": "PAPA_みたま（常闇ver）01"
             }
         },
-        "cn": "八云御魂（常暗ver.）"
+        "cn": "八云御魂（常暗ver.）",
+        "jp": "八雲みたま (常闇 ver.)",
+        "en": "Mitama Yakumo (Eternal Darkness ver.)"
     },
     "1301": {
         "attr": "LIGHT",
@@ -2192,7 +2358,9 @@
                 "name": "PAPA_いろは・やちよ決戦ver01"
             }
         },
-        "cn": "伊吕波·八千代（决战ver.）"
+        "cn": "伊吕波·八千代（决战ver.）",
+        "jp": "いろは・やちよ (決戦 ver.)",
+        "en": "Iroha & Yachiyo (Final Battle ver.)"
     },
     "1302": {
         "attr": "WATER",
@@ -2211,7 +2379,9 @@
                 "name": "PAPA_やちよ（アニメVer.）武器あり02"
             }
         },
-        "cn": "七海八千代（动画ver.）"
+        "cn": "七海八千代（动画ver.）",
+        "jp": "七海やちよ (アニメ ver.)",
+        "en": "Yachiyo Nanami (Anime ver.)"
     },
     "1303": {
         "attr": "FIRE",
@@ -2227,7 +2397,9 @@
                 "name": "PAPA_ウワサの鶴乃（アニメver）01"
             }
         },
-        "cn": "谣鹤乃（动画ver.）"
+        "cn": "谣鹤乃（动画ver.）",
+        "jp": "ウワサの鶴乃 (アニメ ver.)",
+        "en": "Uwasa Tsuruno (Anime ver.)"
     },
     "1309": {
         "attr": "WATER",
@@ -2243,7 +2415,9 @@
                 "name": "PAPA_レナ（アニメver）01"
             }
         },
-        "cn": "水波玲奈（动画ver.）"
+        "cn": "水波玲奈（动画ver.）",
+        "jp": "水波レナ (アニメ ver.)",
+        "en": "Rena Minami (Anime ver.)"
     },
     "1401": {
         "attr": "LIGHT",
@@ -2267,7 +2441,9 @@
                 "name": "PAPA_いろはうい"
             }
         },
-        "cn": "伊吕波·忧（巫女ver.）"
+        "cn": "伊吕波·忧（巫女ver.）",
+        "jp": "いろは・うい (巫女 ver.)",
+        "en": "Iroha & Ui (Miko ver.)"
     },
     "1402": {
         "attr": "WATER",
@@ -2283,7 +2459,9 @@
                 "name": "PAPA_やちよ（おとぎ話ver）01"
             }
         },
-        "cn": "七海八千代（童话ver.）"
+        "cn": "七海八千代（童话ver.）",
+        "jp": "七海やちよ (おとぎ話 ver.)",
+        "en": "Yachiyo Nanami (Fairy Tale ver.)"
     },
     "1501": {
         "attr": "LIGHT",
@@ -2299,7 +2477,9 @@
                 "name": "PAPA_いろは（アニメver）01"
             }
         },
-        "cn": "环伊吕波（动画ver.）"
+        "cn": "环伊吕波（动画ver.）",
+        "jp": "環いろは (アニメ ver.)",
+        "en": "Iroha Tamaki (Anime ver.)"
     },
     "1502": {
         "attr": "WATER",
@@ -2315,7 +2495,9 @@
                 "name": "PAPA_やちよヒストリア"
             }
         },
-        "cn": "七海八千代（历史ver.）"
+        "cn": "七海八千代（历史ver.）",
+        "jp": "七海やちよ (ヒストリア ver.)",
+        "en": "Yachiyo Nanami (Historia ver.)"
     },
     "1601": {
         "attr": "LIGHT",
@@ -2331,7 +2513,9 @@
                 "name": "PAPA_∞いろは01"
             }
         },
-        "cn": "∞伊吕波"
+        "cn": "∞伊吕波",
+        "jp": "∞いろは",
+        "en": "Infinite Iroha"
     },
     "1701": {
         "attr": "LIGHT",
@@ -2347,7 +2531,9 @@
                 "name": "PAPA_無限大いろはちゃん01"
             }
         },
-        "cn": "无限大小伊吕波"
+        "cn": "无限大小伊吕波",
+        "jp": "無限大いろはちゃん",
+        "en": "Infinity Iroha-chan"
     },
     "1801": {
         "attr": "LIGHT",
@@ -2371,7 +2557,9 @@
                 "name": "PAPA_いろは・黒江"
             }
         },
-        "cn": "伊吕波·黑江"
+        "cn": "伊吕波·黑江",
+        "jp": "いろは・黒江",
+        "en": "Iroha & Kuroe"
     },
     "2001": {
         "attr": "LIGHT",
@@ -2419,7 +2607,9 @@
                 "name": "PAPA_まどか04"
             }
         },
-        "cn": "鹿目圆"
+        "cn": "鹿目圆",
+        "jp": "鹿目まどか",
+        "en": "Madoka Kaname"
     },
     "2002": {
         "attr": "DARK",
@@ -2441,7 +2631,9 @@
                 "name": "PAPA_クーほむら01"
             }
         },
-        "cn": "晓美焰"
+        "cn": "晓美焰",
+        "jp": "暁美ほむら",
+        "en": "Homura Akemi"
     },
     "2003": {
         "attr": "DARK",
@@ -2489,7 +2681,9 @@
                 "name": "PAPA_眼鏡ほむら02"
             }
         },
-        "cn": "晓美焰（眼镜ver.）"
+        "cn": "晓美焰（眼镜ver.）",
+        "jp": "暁美ほむら (眼鏡 ver.)",
+        "en": "Homura Akemi (Glasses ver.)"
     },
     "2004": {
         "attr": "WATER",
@@ -2528,7 +2722,9 @@
                 "name": "PAPA_紙袋さやか03"
             }
         },
-        "cn": "美树沙耶香"
+        "cn": "美树沙耶香",
+        "jp": "美樹さやか",
+        "en": "Sayaka Miki"
     },
     "2005": {
         "attr": "TIMBER",
@@ -2565,7 +2761,9 @@
                 "name": "PAPA_マミ02"
             }
         },
-        "cn": "巴麻美"
+        "cn": "巴麻美",
+        "jp": "巴マミ",
+        "en": "Mami Tomoe"
     },
     "2006": {
         "attr": "FIRE",
@@ -2621,7 +2819,9 @@
                 "name": "PAPA_杏子03"
             }
         },
-        "cn": "佐仓杏子"
+        "cn": "佐仓杏子",
+        "jp": "佐倉杏子",
+        "en": "Kyoko Sakura"
     },
     "2007": {
         "attr": "DARK",
@@ -2651,7 +2851,9 @@
                 "name": "PAPA_なぎさ（べべ）02"
             }
         },
-        "cn": "百江渚"
+        "cn": "百江渚",
+        "jp": "百江なぎさ",
+        "en": "Nagisa Momoe"
     },
     "2009": {
         "attr": "VOID",
@@ -2703,7 +2905,9 @@
                 "name": "PAPA_愛生まばゆ"
             }
         },
-        "cn": "爱生眩"
+        "cn": "爱生眩",
+        "jp": "愛生まばゆ",
+        "en": "Mabayu Aki"
     },
     "2100": {
         "attr": "LIGHT",
@@ -2719,7 +2923,9 @@
                 "name": "PAPA_まどか01"
             }
         },
-        "cn": "鹿目圆（晴着ver.）"
+        "cn": "鹿目圆（晴着ver.）",
+        "jp": "鹿目まどか (晴着 ver.)",
+        "en": "Madoka Kaname (Haregi ver.)"
     },
     "2101": {
         "attr": "LIGHT",
@@ -2735,7 +2941,9 @@
                 "name": "PAPA_アルティメットまどか01"
             }
         },
-        "cn": "圆神"
+        "cn": "圆神",
+        "jp": "アルティメットまどか",
+        "en": "Ultimate Madoka"
     },
     "2102": {
         "attr": "LIGHT",
@@ -2760,7 +2968,9 @@
                 "motion": "16"
             }
         },
-        "cn": "小圆前辈"
+        "cn": "小圆前辈",
+        "jp": "まどか先輩",
+        "en": "Madoka-senpai"
     },
     "2103": {
         "attr": "LIGHT",
@@ -2776,7 +2986,9 @@
                 "name": "PAPA_究極まどか先輩"
             }
         },
-        "cn": "究极小圆前辈"
+        "cn": "究极小圆前辈",
+        "jp": "究極まどか先輩",
+        "en": "Ultimate Madoka-senpai"
     },
     "2104": {
         "attr": "LIGHT",
@@ -2800,7 +3012,9 @@
                 "name": "PAPA_まどか・いろは"
             }
         },
-        "cn": "圆·伊吕波"
+        "cn": "圆·伊吕波",
+        "jp": "まどか・いろは",
+        "en": "Madoka & Iroha"
     },
     "2105": {
         "attr": "LIGHT",
@@ -2822,7 +3036,9 @@
                 "name": "PAPA_鹿目まどか"
             }
         },
-        "cn": "鹿目圆（scene0 ver.）"
+        "cn": "鹿目圆（scene0 ver.）",
+        "jp": "鹿目まどか (scene0 ver.)",
+        "en": "Madoka Kaname (scene0 ver.)"
     },
     "2106": {
         "attr": "WATER",
@@ -2838,7 +3054,9 @@
                 "name": "PAPA_まどか（水着ver）01"
             }
         },
-        "cn": "鹿目圆（泳装ver.）"
+        "cn": "鹿目圆（泳装ver.）",
+        "jp": "鹿目まどか(水着ver)",
+        "en": "Madoka Kaname (Swimsuit ver.)"
     },
     "2107": {
         "attr": "LIGHT",
@@ -2862,7 +3080,9 @@
                 "name": "PAPA_まどか先輩・いろはちゃん"
             }
         },
-        "cn": "小圆前辈·小伊吕波"
+        "cn": "小圆前辈·小伊吕波",
+        "jp": "まどか先輩・いろはちゃん",
+        "en": "Madoka-senpai & Iroha-chan"
     },
     "2201": {
         "attr": "DARK",
@@ -2881,7 +3101,9 @@
                 "name": "PAPA_悪魔ほむらちゃん"
             }
         },
-        "cn": "恶魔小焰"
+        "cn": "恶魔小焰",
+        "jp": "悪魔ほむらちゃん",
+        "en": "Devil Homura-chan"
     },
     "2202": {
         "attr": "DARK",
@@ -2900,7 +3122,9 @@
                 "name": "PAPA_悪魔ほむら"
             }
         },
-        "cn": "恶魔焰"
+        "cn": "恶魔焰",
+        "jp": "悪魔ほむら",
+        "en": "Devil Homura"
     },
     "2203": {
         "attr": "DARK",
@@ -2920,7 +3144,9 @@
                 "name": "PAPA_ほむら（お正月ver）01"
             }
         },
-        "cn": "晓美焰（晴着ver.）"
+        "cn": "晓美焰（晴着ver.）",
+        "jp": "暁美ほむら (晴着 ver.)",
+        "en": "Homura Akemi (Haregi ver.)"
     },
     "2300": {
         "attr": "LIGHT",
@@ -2936,7 +3162,9 @@
                 "name": "PAPA_水着眼鏡ほむら01"
             }
         },
-        "cn": "晓美焰（泳装ver.）"
+        "cn": "晓美焰（泳装ver.）",
+        "jp": "暁美ほむら (水着 ver.)",
+        "en": "Homura Akemi (Swimsuit ver.)"
     },
     "2301": {
         "attr": "DARK",
@@ -2967,7 +3195,9 @@
                 "name": "PAPA_暁美ほむらscene0"
             }
         },
-        "cn": "晓美焰（scene0 ver.）"
+        "cn": "晓美焰（scene0 ver.）",
+        "jp": "暁美ほむら (scene0 ver.)",
+        "en": "Homura Akemi (scene0 ver.)"
     },
     "2400": {
         "attr": "WATER",
@@ -2983,7 +3213,9 @@
                 "name": "PAPA_さやか　晴れ着ver01"
             }
         },
-        "cn": "美树沙耶香（晴着ver.）"
+        "cn": "美树沙耶香（晴着ver.）",
+        "jp": "美樹さやか (晴着 ver.)",
+        "en": "Sayaka Miki (Haregi ver.)"
     },
     "2401": {
         "attr": "WATER",
@@ -2999,7 +3231,9 @@
                 "name": "PAPA_美樹さやか波乗り"
             }
         },
-        "cn": "美树沙耶香（冲浪ver.）"
+        "cn": "美树沙耶香（冲浪ver.）",
+        "jp": "美樹さやか (波乗り ver.)",
+        "en": "Sayaka Miki (Surfing ver.)"
     },
     "2402": {
         "attr": "WATER",
@@ -3021,7 +3255,9 @@
                 "name": "PAPA_美樹さやかscene0"
             }
         },
-        "cn": "美树沙耶香（scene0 ver.）"
+        "cn": "美树沙耶香（scene0 ver.）",
+        "jp": "美樹さやか (scene0 ver.)",
+        "en": "Sayaka Miki (scene0 ver.)"
     },
     "2500": {
         "attr": "TIMBER",
@@ -3041,7 +3277,9 @@
                 "name": "PAPA_ホーリーマミ01"
             }
         },
-        "cn": "圣麻美"
+        "cn": "圣麻美",
+        "jp": "ホーリーマミ",
+        "en": "Holy Mami"
     },
     "2501": {
         "attr": "TIMBER",
@@ -3057,7 +3295,9 @@
                 "name": "PAPA_マミ水着ver01"
             }
         },
-        "cn": "巴麻美（泳装ver.）"
+        "cn": "巴麻美（泳装ver.）",
+        "jp": "巴マミ (水着 ver.)",
+        "en": "Mami Tomoe (Swimsuit ver.)"
     },
     "2502": {
         "attr": "TIMBER",
@@ -3073,7 +3313,9 @@
                 "name": "PAPA_ホーリーマミアニメ"
             }
         },
-        "cn": "圣麻美（动画ver.）"
+        "cn": "圣麻美（动画ver.）",
+        "jp": "ホーリーマミ (アニメ ver.)",
+        "en": "Holy Mami (Anime ver.)"
     },
     "2503": {
         "attr": "TIMBER",
@@ -3104,7 +3346,9 @@
                 "name": "PAPA_巴マミscene0"
             }
         },
-        "cn": "巴麻美（scene0 ver.）"
+        "cn": "巴麻美（scene0 ver.）",
+        "jp": "巴マミ (scene0 ver.)",
+        "en": "Mami Tomoe (scene0 ver.)"
     },
     "2600": {
         "attr": "FIRE",
@@ -3120,7 +3364,9 @@
                 "name": "PAPA_杏子水着ver01"
             }
         },
-        "cn": "佐仓杏子（泳装ver.）"
+        "cn": "佐仓杏子（泳装ver.）",
+        "jp": "佐倉杏子 (水着 ver.)",
+        "en": "Kyoko Sakura (Swimsuit ver.)"
     },
     "2601": {
         "attr": "FIRE",
@@ -3142,7 +3388,9 @@
                 "name": "PAPA_佐倉杏子scene0"
             }
         },
-        "cn": "佐仓杏子（scene0 ver.）"
+        "cn": "佐仓杏子（scene0 ver.）",
+        "jp": "佐倉杏子 (scene0 ver.)",
+        "en": "Kyoko Sakura (scene0 ver.)"
     },
     "2602": {
         "attr": "FIRE",
@@ -3158,7 +3406,9 @@
                 "name": "PAPA_杏子ドッペル"
             }
         },
-        "cn": "佐仓杏子（魔女化身ver.）"
+        "cn": "佐仓杏子（魔女化身ver.）",
+        "jp": "佐倉杏子 (ドッペル ver.)",
+        "en": "Kyoko Sakura (Doppel ver.)"
     },
     "2700": {
         "attr": "DARK",
@@ -3174,7 +3424,9 @@
                 "name": "PAPA_なぎさバレンタインver01"
             }
         },
-        "cn": "百江渚（情人节ver.）"
+        "cn": "百江渚（情人节ver.）",
+        "jp": "百江なぎさ (バレンタイン ver.)",
+        "en": "Nagisa Momoe (Valentine's ver.)"
     },
     "2701": {
         "attr": "DARK",
@@ -3190,7 +3442,9 @@
                 "name": "PAPA_百江なぎさ水着"
             }
         },
-        "cn": "百江渚（泳装ver.）"
+        "cn": "百江渚（泳装ver.）",
+        "jp": "百江なぎさ (水着 ver.)",
+        "en": "Nagisa Momoe (Swimsuit ver.)"
     },
     "3001": {
         "attr": "DARK",
@@ -3218,7 +3472,9 @@
                 "name": "PAPA_かのこ01"
             }
         },
-        "cn": "矢宵鹿乃子"
+        "cn": "矢宵鹿乃子",
+        "jp": "矢宵かのこ",
+        "en": "Kanoko Yayoi"
     },
     "3002": {
         "attr": "WATER",
@@ -3248,7 +3504,9 @@
                 "name": "PAPA_夏希01"
             }
         },
-        "cn": "空穗夏希"
+        "cn": "空穗夏希",
+        "jp": "空穂夏希",
+        "en": "Natsuki Utsuho"
     },
     "3003": {
         "attr": "TIMBER",
@@ -3277,7 +3535,9 @@
                 "name": "PAPA_ひなの01"
             }
         },
-        "cn": "都雏乃"
+        "cn": "都雏乃",
+        "jp": "都ひなの",
+        "en": "Hinano Miyako"
     },
     "3004": {
         "attr": "LIGHT",
@@ -3299,7 +3559,9 @@
                 "name": "PAPA_ささら01"
             }
         },
-        "cn": "美凪纱纱罗"
+        "cn": "美凪纱纱罗",
+        "jp": "美凪ささら",
+        "en": "Sasara Minagi"
     },
     "3005": {
         "attr": "WATER",
@@ -3324,7 +3586,9 @@
                 "name": "PAPA_ななか01"
             }
         },
-        "cn": "常盘七夏"
+        "cn": "常盘七夏",
+        "jp": "常盤ななか",
+        "en": "Nanaka Tokiwa"
     },
     "3006": {
         "attr": "DARK",
@@ -3353,7 +3617,9 @@
                 "name": "PAPA_衣美里01"
             }
         },
-        "cn": "木崎衣美里"
+        "cn": "木崎衣美里",
+        "jp": "木崎衣美里",
+        "en": "Emiri Kisaki"
     },
     "3007": {
         "attr": "LIGHT",
@@ -3388,7 +3654,9 @@
                 "name": "PAPA_雫01"
             }
         },
-        "cn": "保澄雫"
+        "cn": "保澄雫",
+        "jp": "保澄雫",
+        "en": "Shizuku Hozumi"
     },
     "3008": {
         "attr": "WATER",
@@ -3414,7 +3682,9 @@
                 "name": "PAPA_あきら01"
             }
         },
-        "cn": "志伸晶"
+        "cn": "志伸晶",
+        "jp": "志伸あきら",
+        "en": "Akira Shinobu"
     },
     "3009": {
         "attr": "FIRE",
@@ -3436,7 +3706,9 @@
                 "name": "PAPA_まなか01"
             }
         },
-        "cn": "胡桃爱香"
+        "cn": "胡桃爱香",
+        "jp": "胡桃まなか",
+        "en": "Manaka Kurumi"
     },
     "3010": {
         "attr": "DARK",
@@ -3462,7 +3734,9 @@
                 "name": "PAPA_莉愛01"
             }
         },
-        "cn": "阿见莉爱"
+        "cn": "阿见莉爱",
+        "jp": "阿見莉愛",
+        "en": "Ria Ami"
     },
     "3011": {
         "attr": "TIMBER",
@@ -3492,7 +3766,9 @@
                 "name": "PAPA_かこ01"
             }
         },
-        "cn": "夏目佳子"
+        "cn": "夏目佳子",
+        "jp": "夏目かこ",
+        "en": "Kako Natsume"
     },
     "3012": {
         "attr": "WATER",
@@ -3517,7 +3793,9 @@
                 "name": "PAPA_美雨01"
             }
         },
-        "cn": "纯美雨"
+        "cn": "纯美雨",
+        "jp": "純美雨",
+        "en": "Meiyui Chun"
     },
     "3013": {
         "attr": "FIRE",
@@ -3542,7 +3820,9 @@
                 "name": "PAPA_れいら01"
             }
         },
-        "cn": "伊吹丽良"
+        "cn": "伊吹丽良",
+        "jp": "伊吹れいら",
+        "en": "Reira Ibuki"
     },
     "3014": {
         "attr": "WATER",
@@ -3564,7 +3844,9 @@
                 "name": "PAPA_せいか01"
             }
         },
-        "cn": "桑水清佳"
+        "cn": "桑水清佳",
+        "jp": "桑水せいか",
+        "en": "Seika Kumi"
     },
     "3015": {
         "attr": "TIMBER",
@@ -3590,7 +3872,9 @@
                 "name": "PAPA_みと01"
             }
         },
-        "cn": "相野未都"
+        "cn": "相野未都",
+        "jp": "相野みと",
+        "en": "Mito Aino"
     },
     "3016": {
         "attr": "LIGHT",
@@ -3622,7 +3906,9 @@
                 "name": "PAPA_こころ01"
             }
         },
-        "cn": "粟根心"
+        "cn": "粟根心",
+        "jp": "粟根こころ",
+        "en": "Kokoro Awane"
     },
     "3017": {
         "attr": "LIGHT",
@@ -3644,7 +3930,9 @@
                 "name": "PAPA_ゆきか01"
             }
         },
-        "cn": "七濑幸佳"
+        "cn": "七濑幸佳",
+        "jp": "七瀬ゆきか",
+        "en": "Yukika Nanase"
     },
     "3018": {
         "attr": "DARK",
@@ -3663,7 +3951,9 @@
                 "name": "PAPA_帆奈01"
             }
         },
-        "cn": "更纱帆奈"
+        "cn": "更纱帆奈",
+        "jp": "更紗帆奈",
+        "en": "Hanna Sarasa"
     },
     "3019": {
         "attr": "DARK",
@@ -3692,7 +3982,9 @@
                 "name": "PAPA_あやか01"
             }
         },
-        "cn": "毬子彩花"
+        "cn": "毬子彩花",
+        "jp": "毬子あやか",
+        "en": "Ayaka Mariko"
     },
     "3020": {
         "attr": "FIRE",
@@ -3711,7 +4003,9 @@
                 "name": "PAPA_ひみか01"
             }
         },
-        "cn": "真尾日美香"
+        "cn": "真尾日美香",
+        "jp": "眞尾ひみか",
+        "en": "Himika Mao"
     },
     "3021": {
         "attr": "TIMBER",
@@ -3730,7 +4024,9 @@
                 "name": "PAPA_さくや01"
             }
         },
-        "cn": "铃鹿朔夜"
+        "cn": "铃鹿朔夜",
+        "jp": "鈴鹿さくや",
+        "en": "Sakuya Suzuka"
     },
     "3022": {
         "attr": "FIRE",
@@ -3749,7 +4045,9 @@
                 "name": "PAPA_伊並満"
             }
         },
-        "cn": "伊并满"
+        "cn": "伊并满",
+        "jp": "伊並満",
+        "en": "Mitsuru Inami"
     },
     "3023": {
         "attr": "FIRE",
@@ -3774,7 +4072,9 @@
                 "name": "PAPA_あいみ01"
             }
         },
-        "cn": "江利爱实"
+        "cn": "江利爱实",
+        "jp": "江利あいみ",
+        "en": "Aimi Eri"
     },
     "3024": {
         "attr": "TIMBER",
@@ -3796,7 +4096,9 @@
                 "name": "PAPA_つむぎ01"
             }
         },
-        "cn": "若菜纺"
+        "cn": "若菜纺",
+        "jp": "若菜つむぎ",
+        "en": "Tsumugi Wakana"
     },
     "3025": {
         "attr": "DARK",
@@ -3825,7 +4127,9 @@
                 "name": "PAPA_れん01"
             }
         },
-        "cn": "五十铃怜"
+        "cn": "五十铃怜",
+        "jp": "五十鈴れん",
+        "en": "Ren Isuzu"
     },
     "3026": {
         "attr": "WATER",
@@ -3844,7 +4148,9 @@
                 "name": "PAPA_このは01"
             }
         },
-        "cn": "静海木叶"
+        "cn": "静海木叶",
+        "jp": "静海このは",
+        "en": "Konoha Shizumi"
     },
     "3027": {
         "attr": "LIGHT",
@@ -3863,7 +4169,9 @@
                 "name": "PAPA_葉月01"
             }
         },
-        "cn": "游佐叶月"
+        "cn": "游佐叶月",
+        "jp": "遊佐葉月",
+        "en": "Hazuki Yusa"
     },
     "3028": {
         "attr": "FIRE",
@@ -3886,7 +4194,9 @@
                 "name": "PAPA_あやめ01"
             }
         },
-        "cn": "三栗菖蒲"
+        "cn": "三栗菖蒲",
+        "jp": "三栗あやめ",
+        "en": "Ayame Mikuri"
     },
     "3029": {
         "attr": "LIGHT",
@@ -3915,7 +4225,9 @@
                 "name": "PAPA_まさら01"
             }
         },
-        "cn": "加贺见真良"
+        "cn": "加贺见真良",
+        "jp": "加賀見まさら",
+        "en": "Masara Kagami"
     },
     "3030": {
         "attr": "TIMBER",
@@ -3941,7 +4253,9 @@
                 "name": "PAPA_このみ01"
             }
         },
-        "cn": "春名木乃美"
+        "cn": "春名木乃美",
+        "jp": "春名このみ",
+        "en": "Konomi Haruna"
     },
     "3031": {
         "attr": "FIRE",
@@ -3963,7 +4277,9 @@
                 "name": "PAPA_梨花01"
             }
         },
-        "cn": "绫野梨花"
+        "cn": "绫野梨花",
+        "jp": "綾野梨花",
+        "en": "Rika Ayano"
     },
     "3032": {
         "attr": "WATER",
@@ -3986,7 +4302,9 @@
                 "name": "PAPA_麻友01"
             }
         },
-        "cn": "梢麻友"
+        "cn": "梢麻友",
+        "jp": "梢麻友",
+        "en": "Mayu Kozue"
     },
     "3033": {
         "attr": "LIGHT",
@@ -4006,7 +4324,9 @@
                 "motion": "17"
             }
         },
-        "cn": "史乃沙优希"
+        "cn": "史乃沙优希",
+        "jp": "史乃沙優希",
+        "en": "Sayuki Fumino"
     },
     "3034": {
         "attr": "TIMBER",
@@ -4031,7 +4351,9 @@
                 "name": "PAPA_萌花01"
             }
         },
-        "cn": "惠萌花"
+        "cn": "惠萌花",
+        "jp": "恵萌花",
+        "en": "Moka Megumi"
     },
     "3035": {
         "attr": "LIGHT",
@@ -4063,7 +4385,9 @@
                 "name": "PAPA_理子01"
             }
         },
-        "cn": "千秋理子"
+        "cn": "千秋理子",
+        "jp": "千秋理子",
+        "en": "Riko Chiaki"
     },
     "3036": {
         "attr": "WATER",
@@ -4085,7 +4409,9 @@
                 "name": "PAPA_真里愛01"
             }
         },
-        "cn": "由贵真里爱"
+        "cn": "由贵真里爱",
+        "jp": "由貴真里愛",
+        "en": "Maria Yuki"
     },
     "3037": {
         "attr": "TIMBER",
@@ -4111,7 +4437,9 @@
                 "name": "PAPA_メル01"
             }
         },
-        "cn": "安名梅露"
+        "cn": "安名梅露",
+        "jp": "安名メル",
+        "en": "Mel Anna"
     },
     "3038": {
         "attr": "DARK",
@@ -4133,7 +4461,9 @@
                 "name": "PAPA_みくら01"
             }
         },
-        "cn": "古町美仓"
+        "cn": "古町美仓",
+        "jp": "古町みくら",
+        "en": "Mikura Komachi"
     },
     "3039": {
         "attr": "FIRE",
@@ -4155,7 +4485,9 @@
                 "name": "PAPA_せいら01"
             }
         },
-        "cn": "三穗野星罗"
+        "cn": "三穗野星罗",
+        "jp": "三穂野せいら",
+        "en": "Seira Mihono"
     },
     "3040": {
         "attr": "WATER",
@@ -4177,7 +4509,9 @@
                 "name": "PAPA_てまり01"
             }
         },
-        "cn": "吉良手鞠"
+        "cn": "吉良手鞠",
+        "jp": "吉良てまり",
+        "en": "Temari Kira"
     },
     "3041": {
         "attr": "LIGHT",
@@ -4196,7 +4530,9 @@
                 "name": "PAPA_ほとり01"
             }
         },
-        "cn": "柚希步鸟"
+        "cn": "柚希步鸟",
+        "jp": "柚希ほとり",
+        "en": "Hotori Yuzuki"
     },
     "3042": {
         "attr": "FIRE",
@@ -4215,7 +4551,9 @@
                 "name": "PAPA_めぐる01"
             }
         },
-        "cn": "枇枇木巡"
+        "cn": "枇枇木巡",
+        "jp": "枇々木めぐる",
+        "en": "Meguru Hibiki"
     },
     "3043": {
         "attr": "LIGHT",
@@ -4237,7 +4575,9 @@
                 "name": "PAPA_万年桜のウワサ01"
             }
         },
-        "cn": "万年樱之谣"
+        "cn": "万年樱之谣",
+        "jp": "万年桜のウワサ",
+        "en": "Eternal Sakura"
     },
     "3044": {
         "attr": "FIRE",
@@ -4259,7 +4599,9 @@
                 "name": "PAPA_らんか01"
             }
         },
-        "cn": "智珠兰华"
+        "cn": "智珠兰华",
+        "jp": "智珠らんか",
+        "en": "Ranka Chizu"
     },
     "3045": {
         "attr": "DARK",
@@ -4278,7 +4620,9 @@
                 "name": "PAPA_りおん01"
             }
         },
-        "cn": "柚希理音"
+        "cn": "柚希理音",
+        "jp": "柚希りおん",
+        "en": "Rion Yuzuki"
     },
     "3046": {
         "attr": "FIRE",
@@ -4308,7 +4652,9 @@
                 "name": "PAPA_白羽根02"
             }
         },
-        "cn": "观鸟令"
+        "cn": "观鸟令",
+        "jp": "観鳥令",
+        "en": "Ryo Midori"
     },
     "3047": {
         "attr": "TIMBER",
@@ -4334,7 +4680,9 @@
                 "name": "PAPA_ちか01"
             }
         },
-        "cn": "青叶知花"
+        "cn": "青叶知花",
+        "jp": "青葉ちか",
+        "en": "Chika Aoba"
     },
     "3048": {
         "attr": "WATER",
@@ -4356,7 +4704,9 @@
                 "name": "PAPA_蛍"
             }
         },
-        "cn": "由良萤"
+        "cn": "由良萤",
+        "jp": "由良蛍",
+        "en": "Hotaru Yura"
     },
     "3049": {
         "attr": "DARK",
@@ -4379,7 +4729,9 @@
                 "name": "PAPA_かなえ01"
             }
         },
-        "cn": "雪野加奈惠"
+        "cn": "雪野加奈惠",
+        "jp": "雪野かなえ",
+        "en": "Kanae Yukino"
     },
     "3050": {
         "attr": "TIMBER",
@@ -4401,7 +4753,9 @@
                 "name": "PAPA_ゆうな01"
             }
         },
-        "cn": "香春优奈"
+        "cn": "香春优奈",
+        "jp": "香春ゆうな",
+        "en": "Yuuna Kaharu"
     },
     "3051": {
         "attr": "WATER",
@@ -4420,7 +4774,9 @@
                 "name": "PAPA_潤01"
             }
         },
-        "cn": "饰利润"
+        "cn": "饰利润",
+        "jp": "飾利潤",
+        "en": "Jun Kazari"
     },
     "3052": {
         "attr": "DARK",
@@ -4449,7 +4805,9 @@
                 "name": "PAPA_アシュリー01"
             }
         },
-        "cn": "阿什莉·泰勒"
+        "cn": "阿什莉·泰勒",
+        "jp": "アシュリー・テイラー",
+        "en": "Ashley Taylor"
     },
     "3053": {
         "attr": "DARK",
@@ -4478,7 +4836,9 @@
                 "name": "PAPA_郁美01"
             }
         },
-        "cn": "牧野郁美"
+        "cn": "牧野郁美",
+        "jp": "牧野郁美",
+        "en": "Ikumi Makino"
     },
     "3054": {
         "attr": "LIGHT",
@@ -4500,7 +4860,9 @@
                 "name": "PAPA_みつね01"
             }
         },
-        "cn": "三轮光音"
+        "cn": "三轮光音",
+        "jp": "三輪みつね",
+        "en": "Mitsune Miwa"
     },
     "3055": {
         "attr": "FIRE",
@@ -4519,7 +4881,9 @@
                 "name": "PAPA_紗枝"
             }
         },
-        "cn": "桐野纱枝"
+        "cn": "桐野纱枝",
+        "jp": "桐野紗枝",
+        "en": "Sae Kirino"
     },
     "3056": {
         "attr": "DARK",
@@ -4538,7 +4902,9 @@
                 "name": "PAPA_塁01"
             }
         },
-        "cn": "水树垒"
+        "cn": "水树垒",
+        "jp": "水樹塁",
+        "en": "Rui Mizuki"
     },
     "3057": {
         "attr": "LIGHT",
@@ -4561,7 +4927,9 @@
                 "name": "PAPA_あかり01"
             }
         },
-        "cn": "真井灯"
+        "cn": "真井灯",
+        "jp": "真井あかり",
+        "en": "Akari Mai"
     },
     "3058": {
         "attr": "FIRE",
@@ -4584,7 +4952,9 @@
                 "name": "PAPA_涼子01"
             }
         },
-        "cn": "南津凉子"
+        "cn": "南津凉子",
+        "jp": "南津涼子",
+        "en": "Ryouko Natsu"
     },
     "3059": {
         "attr": "DARK",
@@ -4610,7 +4980,9 @@
                 "name": "PAPA_クシュ"
             }
         },
-        "cn": "入名库什"
+        "cn": "入名库什",
+        "jp": "入名クシュ",
+        "en": "Kushu Irina"
     },
     "3501": {
         "attr": "DARK",
@@ -4634,7 +5006,9 @@
                 "name": "PAPA_梨花・れんクリスマス01"
             }
         },
-        "cn": "梨花·怜（圣诞ver.）"
+        "cn": "梨花·怜（圣诞ver.）",
+        "jp": "梨花・れん (クリスマス ver.)",
+        "en": "Rika & Ren (Christmas ver.)"
     },
     "3502": {
         "attr": "LIGHT",
@@ -4650,7 +5024,9 @@
                 "name": "PAPA_万年桜のウワサ水着ver01"
             }
         },
-        "cn": "万年樱之谣（泳装ver.）"
+        "cn": "万年樱之谣（泳装ver.）",
+        "jp": "万年桜のウワサ (水着 ver.)",
+        "en": "Eternal Sakura (Swimsuit ver.)"
     },
     "3503": {
         "attr": "TIMBER",
@@ -4678,7 +5054,9 @@
                 "name": "PAPA_このは・葉月"
             }
         },
-        "cn": "木叶·叶月"
+        "cn": "木叶·叶月",
+        "jp": "このは・葉月",
+        "en": "Konoha & Hazuki"
     },
     "3504": {
         "attr": "LIGHT",
@@ -4702,7 +5080,9 @@
                 "name": "PAPA_まさら・こころ花嫁"
             }
         },
-        "cn": "真良·心（花嫁ver.）"
+        "cn": "真良·心（花嫁ver.）",
+        "jp": "まさら・こころ (花嫁 ver.)",
+        "en": "Masara & Kokoro (Bride ver.)"
     },
     "3505": {
         "attr": "FIRE",
@@ -4730,7 +5110,9 @@
                 "name": "PAPA_れいら・せいか"
             }
         },
-        "cn": "丽良·清佳"
+        "cn": "丽良·清佳",
+        "jp": "れいら・せいか",
+        "en": "Leila & Seika"
     },
     "3900": {
         "attr": "DARK",
@@ -4746,7 +5128,9 @@
                 "name": "PAPA_黒羽根01"
             }
         },
-        "cn": "黑"
+        "cn": "黑",
+        "jp": "黒",
+        "en": "Kuro"
     },
     "3901": {
         "attr": "VOID",
@@ -4766,7 +5150,9 @@
                 "name": "PAPA_ユゥ"
             }
         },
-        "cn": "夕"
+        "cn": "夕",
+        "jp": "ユゥ",
+        "en": "Yu"
     },
     "3902": {
         "attr": "DARK",
@@ -4786,7 +5172,9 @@
                 "name": "PAPA_シィ"
             }
         },
-        "cn": "椎"
+        "cn": "椎",
+        "jp": "シィ",
+        "en": "Shii"
     },
     "4001": {
         "attr": "LIGHT",
@@ -4811,7 +5199,9 @@
                 "name": "PAPA_織莉子01"
             }
         },
-        "cn": "美国织莉子"
+        "cn": "美国织莉子",
+        "jp": "美国織莉子",
+        "en": "Oriko Mikuni"
     },
     "4002": {
         "attr": "DARK",
@@ -4836,7 +5226,9 @@
                 "name": "PAPA_キリカ01"
             }
         },
-        "cn": "吴纪里香"
+        "cn": "吴纪里香",
+        "jp": "呉キリカ",
+        "en": "Kirika Kure"
     },
     "4003": {
         "attr": "TIMBER",
@@ -4858,7 +5250,9 @@
                 "name": "PAPA_ゆま01"
             }
         },
-        "cn": "千岁由麻"
+        "cn": "千岁由麻",
+        "jp": "千歳ゆま",
+        "en": "Yuma Chitose"
     },
     "4004": {
         "attr": "LIGHT",
@@ -4874,7 +5268,9 @@
                 "name": "PAPA_織莉子ver.Final01"
             }
         },
-        "cn": "美国织莉子（ver.Final）"
+        "cn": "美国织莉子（ver.Final）",
+        "jp": "美国織莉子 (Final ver.)",
+        "en": "Oriko Mikuni (Final ver.)"
     },
     "4011": {
         "attr": "DARK",
@@ -4908,7 +5304,9 @@
                 "name": "PAPA_かずみ01"
             }
         },
-        "cn": "和美"
+        "cn": "和美",
+        "jp": "かずみ",
+        "en": "Kazumi"
     },
     "4012": {
         "attr": "WATER",
@@ -4927,7 +5325,9 @@
                 "name": "PAPA_海香01"
             }
         },
-        "cn": "御崎海香"
+        "cn": "御崎海香",
+        "jp": "御崎海香",
+        "en": "Umika Misaki"
     },
     "4013": {
         "attr": "FIRE",
@@ -4946,7 +5346,9 @@
                 "name": "PAPA_カオル01"
             }
         },
-        "cn": "牧薰"
+        "cn": "牧薰",
+        "jp": "牧カオル",
+        "en": "Kaoru Maki"
     },
     "4014": {
         "attr": "LIGHT",
@@ -4965,7 +5367,9 @@
                 "name": "PAPA_昴かずみ"
             }
         },
-        "cn": "昴和美"
+        "cn": "昴和美",
+        "jp": "昴かずみ",
+        "en": "Kazumi Subaru"
     },
     "4021": {
         "attr": "LIGHT",
@@ -4988,7 +5392,9 @@
                 "name": "PAPA_タルト01"
             }
         },
-        "cn": "塔鲁特"
+        "cn": "塔鲁特",
+        "jp": "タルト",
+        "en": "Tart"
     },
     "4022": {
         "attr": "DARK",
@@ -5011,7 +5417,9 @@
                 "name": "PAPA_リズ01"
             }
         },
-        "cn": "莉兹"
+        "cn": "莉兹",
+        "jp": "リズ",
+        "en": "Liz Hawkwood"
     },
     "4023": {
         "attr": "WATER",
@@ -5034,7 +5442,9 @@
                 "name": "PAPA_メリッサ01"
             }
         },
-        "cn": "梅丽莎"
+        "cn": "梅丽莎",
+        "jp": "メリッサ",
+        "en": "Melissa de Vignolles"
     },
     "4024": {
         "attr": "LIGHT",
@@ -5061,7 +5471,9 @@
                 "name": "PAPA_ミヌゥ"
             }
         },
-        "cn": "米诺"
+        "cn": "米诺",
+        "jp": "ミヌゥ",
+        "en": "Minou"
     },
     "4025": {
         "attr": "DARK",
@@ -5080,7 +5492,9 @@
                 "name": "PAPA_コルボー01"
             }
         },
-        "cn": "可鲁波"
+        "cn": "可鲁波",
+        "jp": "コルボー",
+        "en": "Corbeau"
     },
     "4026": {
         "attr": "FIRE",
@@ -5103,7 +5517,9 @@
                 "name": "PAPA_エリザ01"
             }
         },
-        "cn": "爱丽莎"
+        "cn": "爱丽莎",
+        "jp": "エリザ",
+        "en": "Elisa Celjska"
     },
     "4027": {
         "attr": "FIRE",
@@ -5122,7 +5538,9 @@
                 "name": "PAPA_ラピヌ01"
             }
         },
-        "cn": "拉皮努"
+        "cn": "拉皮努",
+        "jp": "ラピヌ",
+        "en": "Lapin"
     },
     "4028": {
         "attr": "LIGHT",
@@ -5138,7 +5556,9 @@
                 "name": "PAPA_タルトverFinal01"
             }
         },
-        "cn": "塔鲁特（ver.Final）"
+        "cn": "塔鲁特（ver.Final）",
+        "jp": "タルト (Final ver.)",
+        "en": "Tart (Final ver.)"
     },
     "4029": {
         "attr": "VOID",
@@ -5157,7 +5577,9 @@
                 "name": "PAPA_ペレネル"
             }
         },
-        "cn": "佩尔内勒"
+        "cn": "佩尔内勒",
+        "jp": "ペレネル",
+        "en": "Pernelle Flamel"
     },
     "4031": {
         "attr": "FIRE",
@@ -5182,7 +5604,9 @@
                 "name": "PAPA_鈴音01"
             }
         },
-        "cn": "天乃铃音"
+        "cn": "天乃铃音",
+        "jp": "天乃鈴音",
+        "en": "Suzune Amano"
     },
     "4032": {
         "attr": "TIMBER",
@@ -5201,7 +5625,9 @@
                 "name": "PAPA_茉莉01"
             }
         },
-        "cn": "日向茉莉"
+        "cn": "日向茉莉",
+        "jp": "日向茉莉",
+        "en": "Matsuri Hinata"
     },
     "4033": {
         "attr": "DARK",
@@ -5220,7 +5646,9 @@
                 "name": "PAPA_亜里紗01"
             }
         },
-        "cn": "成见亚里纱"
+        "cn": "成见亚里纱",
+        "jp": "成見亜里紗",
+        "en": "Arisa Narumi"
     },
     "4034": {
         "attr": "WATER",
@@ -5242,7 +5670,9 @@
                 "name": "PAPA_千里"
             }
         },
-        "cn": "诗音千里"
+        "cn": "诗音千里",
+        "jp": "詩音千里",
+        "en": "Chisato Shion"
     },
     "4035": {
         "attr": "LIGHT",
@@ -5261,7 +5691,9 @@
                 "name": "PAPA_遥香01"
             }
         },
-        "cn": "奏遥香"
+        "cn": "奏遥香",
+        "jp": "奏遥香",
+        "en": "Haruka Kanade"
     },
     "4036": {
         "attr": "FIRE",
@@ -5280,7 +5712,9 @@
                 "name": "PAPA_椿"
             }
         },
-        "cn": "美琴椿"
+        "cn": "美琴椿",
+        "jp": "美琴椿",
+        "en": "Tsubaki Mikoto"
     },
     "4041": {
         "attr": "DARK",
@@ -5296,7 +5730,9 @@
                 "name": "戦場ヶ原ひたぎ(変身前)"
             }
         },
-        "cn": "战场原黑仪"
+        "cn": "战场原黑仪",
+        "jp": "戦場ヶ原ひたぎ",
+        "en": "Hitagi Senjougahara"
     },
     "4042": {
         "attr": "WATER",
@@ -5312,7 +5748,9 @@
                 "name": "八九寺真宵(変身前)"
             }
         },
-        "cn": "八九寺真宵"
+        "cn": "八九寺真宵",
+        "jp": "八九寺真宵",
+        "en": "Mayoi Hachikuji"
     },
     "4043": {
         "attr": "FIRE",
@@ -5328,7 +5766,9 @@
                 "name": "神原駿河(変身前)"
             }
         },
-        "cn": "神原骏河"
+        "cn": "神原骏河",
+        "jp": "神原駿河",
+        "en": "Suruga Kanbaru"
     },
     "4044": {
         "attr": "TIMBER",
@@ -5344,7 +5784,9 @@
                 "name": "千石撫子(変身前)"
             }
         },
-        "cn": "千石抚子"
+        "cn": "千石抚子",
+        "jp": "千石撫子",
+        "en": "Nadeko Sengoku"
     },
     "4045": {
         "attr": "FIRE",
@@ -5360,7 +5802,9 @@
                 "name": "羽川翼(変身前)"
             }
         },
-        "cn": "羽川翼"
+        "cn": "羽川翼",
+        "jp": "羽川翼",
+        "en": "Tsubasa Hanekawa"
     },
     "4046": {
         "attr": "LIGHT",
@@ -5376,7 +5820,9 @@
                 "name": "忍野忍(変身前)"
             }
         },
-        "cn": "忍野忍"
+        "cn": "忍野忍",
+        "jp": "忍野忍",
+        "en": "Shinobu Oshino"
     },
     "4051": {
         "attr": "FIRE",
@@ -5392,7 +5838,9 @@
                 "name": "高町なのは(変身前)"
             }
         },
-        "cn": "高町奈叶"
+        "cn": "高町奈叶",
+        "jp": "高町なのは",
+        "en": "Nanoha Takamachi"
     },
     "4052": {
         "attr": "LIGHT",
@@ -5408,7 +5856,9 @@
                 "name": "フェイト・T・ハラオウン(変身前)"
             }
         },
-        "cn": "菲特"
+        "cn": "菲特",
+        "jp": "八神はやて",
+        "en": "Hayate Yagami"
     },
     "4053": {
         "attr": "TIMBER",
@@ -5427,7 +5877,9 @@
                 "name": "八神はやて_ユニゾン"
             }
         },
-        "cn": "八神疾风"
+        "cn": "八神疾风",
+        "jp": "フェイト",
+        "en": "Fate T. Harlaown"
     },
     "4061": {
         "attr": "LIGHT",
@@ -5443,7 +5895,9 @@
                 "name": "錦木千束（DA制服）"
             }
         },
-        "cn": "锦木千束"
+        "cn": "锦木千束",
+        "jp": "錦木千束",
+        "en": "Chisato Nishikigi"
     },
     "4062": {
         "attr": "DARK",
@@ -5459,7 +5913,9 @@
                 "name": "井ノ上たきな(制服)"
             }
         },
-        "cn": "井之上泷奈"
+        "cn": "井之上泷奈",
+        "jp": "井ノ上たきな",
+        "en": "Takina Inoue"
     },
     "4121": {
         "attr": "DARK",
@@ -5482,7 +5938,9 @@
                 "name": "PAPA_イザボー（魔女ver）"
             }
         },
-        "cn": "伊莎贝拉（魔女ver.）"
+        "cn": "伊莎贝拉（魔女ver.）",
+        "jp": "イザボー (魔女 ver.)",
+        "en": "Isabeau de Bavière (Witch ver.)"
     },
     "4122": {
         "attr": "DARK",
@@ -5501,7 +5959,9 @@
                 "name": "PAPA_イザボー（魔法少女ver）"
             }
         },
-        "cn": "伊莎贝拉"
+        "cn": "伊莎贝拉",
+        "jp": "イザボー",
+        "en": "Isabeau de Bavière"
     },
     "updateTime": "2024-05-12"
 }
