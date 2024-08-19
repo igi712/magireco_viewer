@@ -46,6 +46,11 @@ function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 var play_sound;
+async function readParams() {
+    const response = await fetch('../image/image_native/live2d_v4/'+customs[custom_index]+'/params.json');
+    const params = await response.json();
+    return params;
+}
 async function _show(model, pos_x) {
     const settings = new PIXI.live2d.Cubism4ModelSettings(model);
     const live2dSprite = await PIXI.live2d.Live2DModel.from(settings);
@@ -58,9 +63,13 @@ async function _show(model, pos_x) {
     let frequencyData = new Uint8Array(analyser.frequencyBinCount);
     let request = new XMLHttpRequest();
     let source = audioCtx.createBufferSource();
-    live2dSprite.scale.set(0.5, 0.5);
-    live2dSprite.x=pos_x
+    live2dSprite.scale.set(0.75, 0.75);
+    //live2dSprite.x=-60
+    live2dSprite.x=(pos_x*(2/3))-183.333
     live2dSprite._autoInteract = false
+    // Read params.json and set y
+    const params = await readParams();
+    live2dSprite.y = 2325/2-live2dSprite.height/2-(85+params.height)*3;
     console.log(live2dSprite)
     play_sound = function(set_group){
         if(playing||delay_play){
